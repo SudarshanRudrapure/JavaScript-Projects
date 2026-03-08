@@ -1,3 +1,4 @@
+//logic
 const button = document.getElementById("btn");
 const colorCode = document.getElementById("colorCode");
 
